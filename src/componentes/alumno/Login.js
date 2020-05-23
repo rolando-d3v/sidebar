@@ -29,7 +29,6 @@ function Login() {
                   Email</Form.Label>
                 <Form.Control type="email" placeholder="Enter email" />
               </Form.Group>
-
               <Form.Group>
                 <Form.Label>
                   <FaLock/> {''}
